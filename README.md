@@ -16,5 +16,5 @@
 
 # 自用
 
-1. 定时任务    [task.json](https://raw.githubusercontent.com/gluttony-10/QX/main/task.json)
-2. Cookie获取  [cookie.conf](https://raw.githubusercontent.com/gluttony-10/QX/main/cookie.conf)
+1. 定时任务 [task.json](https://raw.githubusercontent.com/gluttony-10/QX/main/task.json)
+2. Cookie获取 [cookie.conf](https://raw.githubusercontent.com/gluttony-10/QX/main/cookie.conf)
