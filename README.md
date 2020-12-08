@@ -19,3 +19,4 @@
 1. 定时任务 [task.json](https://raw.githubusercontent.com/gluttony-10/QX/main/task.json)
 2. Cookie获取 [cookie.conf](https://raw.githubusercontent.com/gluttony-10/QX/main/cookie.conf)
 3. Cookie获取测试版 [cookie2.conf](https://raw.githubusercontent.com/gluttony-10/QX/main/cookie2.conf)
+4. 设置备份 [backup.conf](https://raw.githubusercontent.com/gluttony-10/QX/main/backup.conf)
