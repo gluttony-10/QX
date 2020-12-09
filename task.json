@@ -2,7 +2,7 @@
     "name": "QX脚本",
     "description": "收集自各位大佬",
     "task": [
-        "/2 0-16 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/task/master/htt.png, enabled=true",
+        "0/2 0-16 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/task/master/htt.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/xingliuchao/jd/main/jd_apple_live.js, tag=苹果抽奖机, enabled=true",
         "0,20,40 1-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js, tag=企鹅阅读, enabled=true",
         "0 1/2 * * * https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js, tag=中青看点极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
