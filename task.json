@@ -2,7 +2,9 @@
     "name": "QX脚本",
     "description": "收集自各位大佬",
     "task": [
-        
+        "1 8,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bookshop.js, tag=口袋书店, enabled=true",
+        "20 13 * * 6 https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_get_share_code.js, tag=获取互助码, enabled=true",
+        "0 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
         "0,20,40 1-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js, tag=企鹅阅读, enabled=true",
         "0 1/2 * * * https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js, tag=中青看点极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
         "0 0/15 0-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
